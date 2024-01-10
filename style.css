@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #3d57a9;
+}
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    font-size: 28px;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 4px 6px;
+}
